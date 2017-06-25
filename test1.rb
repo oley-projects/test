@@ -1,0 +1,5 @@
+hello
+hi
+
+scan(/
+	/) { |match|  }
